@@ -614,7 +614,7 @@ var settings = document.getElementById("readme");
 settings.ondblclick =()=> {
   document.getElementById("read").style.display = 'block';
   var frame = document.createElement("iframe");
-  frame.src = "readme.html"
+  frame.src = "read.html"
   frame.style.width = "500px";
   frame.style.height = "500px";
   var button = document.createElement('button');
