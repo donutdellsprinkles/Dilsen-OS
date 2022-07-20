@@ -1,0 +1,202 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;   
+    height: 100%;
+    width: 100%; 
+    background-image: url(https://lh3.googleusercontent.com/rIawat0TWKEfJo7r4ZerZ-1pzZwEB6FYiJ9rHBWiBlHdpSZ_SUR9PUhr3GFCbrvY-3LGoNH4NAC_GUqKLlZaZtUjuf1de8b8tqL5QgNAhV0zOf78BKp1Ew2TUFeMgoXWrDR3Zz4J3w=w2400);
+    margin: 0;
+    
+}
+.dragBtn {
+    height: 60px;
+    width: 60px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: 1.4em;
+    
+}
+.buttonvs {
+    height: 60px;
+    width: 60px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    top: 525px;
+    font-size: 1.4em;
+    background-color: transparent;
+}
+.settings {
+    height: 60px;
+    width: 60px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+    top: 100px;
+    font-size: 1.4em;
+    background-color: transparent;
+}
+p {
+    font-size: 15px;
+    
+}
+.buttonS {
+    top: 100px;
+}
+.burger {
+    position: absolute;
+}
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: seagreen;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+    
+    
+    
+  }
+  
+  #mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+  }
+.monkey {
+    position: absolute;
+    text-decoration-line: line-through;
+}
+.fullscreen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#set {
+    position: absolute;
+    z-index: 9;
+    background-color: cadetblue;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+}
+.settings {
+    top:400px;
+    
+}
+.bills {
+    height: 60px;
+    width: 60px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+    top: 125px;
+    font-size: 1.4em;
+    background-color: transparent;
+}
+.bill {
+    position: absolute;
+    z-index: 9;
+    background-color: orange;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+    
+}
+
+.behold {
+    height: 80px;
+    width: 80px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    font-size: 1.4em;
+    background-color: transparent;
+    
+}
+
+.beholder {
+    position: absolute;
+    z-index: 9;
+    background-color: black;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+    
+}
+#b {
+    background-color: transparent;
+    color: #f1f1f1;
+    border: 1px solid white;
+}
+#t {
+    background-color: transparent;
+    color: #f1f1f1;
+    border: 1px solid wheat;
+}
+#p {
+    background-color: transparent;
+    color: #f1f1f1;
+    border: 1px solid wheat;
+}
+#S {
+    background-color: transparent;
+    color: #f1f1f1;
+    border: 1px solid wheat;
+}
+.Duekin {
+    position: absolute;
+    z-index: 9;
+    background-color:darkgrey;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+}
+#D {
+    background-color: transparent;
+    color: #f1f1f1;
+    border: 1px solid wheat;
+}
+.read {
+    position: absolute;
+    z-index: 9;
+    background-color:darkgrey;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+}
+.readme {
+    height: 80px;
+    width: 80px;
+    outline: none;
+    position:absolute;
+    padding: 0;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+    left: 80px;
+    font-size: 1.4em;
+    background-color: transparent;
+    
+}

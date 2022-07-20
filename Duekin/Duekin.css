@@ -1,0 +1,41 @@
+
+body {
+    margin: 0;
+    background-color:  	#303030;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+#demo {
+    text-align:right;
+    color: aqua;
+    background-color: #303030;
+    width: 400px;
+    height: 200px;
+    
+}
+#late {
+    color: white;
+    font-size: 20px;
+    text-align: right;
+}
+#add {
+    width: 70px;
+    height: 70px;
+    background-color: cyan;
+    border: none;
+    cursor: pointer;
+}
+#save {
+    width: 70px;
+    height: 70px;
+    background-color: cyan;
+    border: none;
+    cursor: pointer;
+}
+#work {
+    text-align: right;
+}

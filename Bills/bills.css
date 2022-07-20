@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/8b/c5/90/8bc5909b0056ee8851e2908f715bdbe7.gif);
+    margin: 0;
+    height: 100%;
+    width: 100%; 
+    background-size: 100%;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.dem {
+  
+    width: 500px;
+    height: 100px;
+    background-color:orange;
+    border-radius: 10px;
+    border-width: .25em;  
+    border-style: double;  
+    border-color: darkslategray;
+}
+marquee {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    color: whitesmoke
+}
+#demarcus {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+    
+}
